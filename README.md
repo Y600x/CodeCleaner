@@ -58,7 +58,7 @@ codecleaner/
 
 Installation
 
-git clone https://github.com/Y600/codecleaner.git
+git clone https://github.com/Y600x/codecleaner.git
 cd codecleaner
 python3 codecleaner.py -h
 
