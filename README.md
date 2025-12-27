@@ -51,7 +51,6 @@ codecleaner/
 ├── utils/                  # Helpers and reporting
 ├── examples/               # Test files
 ├── README.md
-└── requirements.txt
 
 
 ---
