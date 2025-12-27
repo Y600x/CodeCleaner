@@ -1,8 +1,6 @@
 # CodeCleaner
 A command-line tool for cleaning source code by removing comments and unnecessary blank lines while preserving the original logic and structure
-
-
-# CodeCleaner
+~~~~~~~~~~~~~~~~~~~~~~~
 
 CodeCleaner is a professional Python-based command-line tool designed to clean source code by removing programming comments and excessive blank lines.  
 It supports more than 14 programming languages and follows a clean, minimal CLI style similar to professional security and development tools.
